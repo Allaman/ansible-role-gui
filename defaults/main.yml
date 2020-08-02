@@ -1,0 +1,24 @@
+---
+# defaults file for ansible-role-gui
+xbanish_url: https://github.com/jcs/xbanish.git
+packages:
+  - syncthing
+  - firefox
+  - keepassxc
+  - pinta
+  - inkscape
+  - kdeconnect
+  - hledger
+  - hledger-ui
+  - isync
+  - khal
+  - khard
+  - msmtp
+  - neomutt
+  - notmuch
+  - notmuch-mutt
+  - powertop
+  - vdirsyncer
+  - urlscan
+  - sxhkd
+  - xcape

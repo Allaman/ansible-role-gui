@@ -27,7 +27,7 @@ Example Playbook
   hosts: localhost
   connection: local
   roles:
-    - ansible-role-laptop
+    - ansible-role-gui
 ```
 
 License

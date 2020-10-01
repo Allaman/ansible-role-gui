@@ -2,6 +2,8 @@
 # defaults file for ansible-role-gui
 xbanish_url: https://github.com/jcs/xbanish.git
 packages:
+  - chromium
+  - alacritty
   - syncthing
   - firefox
   - keepassxc

@@ -3,6 +3,7 @@
 xbanish_url: https://github.com/jcs/xbanish.git
 packages:
   - chromium
+  - clipmenu
   - alacritty
   - syncthing
   - firefox
@@ -12,9 +13,11 @@ packages:
   - kdeconnect
   - hledger
   - hledger-ui
+  - inkscape
   - isync
   - khal
   - khard
+  - libreoffice
   - msmtp
   - neomutt
   - notmuch
@@ -23,5 +26,23 @@ packages:
   - vdirsyncer
   - urlscan
   - sxhkd
+  - xbindkeys
   - xcape
+  - xf86-input-synaptics
+  - xorg-input
   - sxiv
+  - zathura-pdf-mupdf
+  - intel-media-driver
+  - intel-ucode
+  - inxi
+  - libva-intel-driver
+  - libva-utils
+  - linux-firmware
+  - linux-headers
+  - mesa
+  - mesa-demos
+  - sof-firmware
+  - vulkan-icd-loader
+  - vulkan-intel
+  - vulkan-mesa-layers
+  - vulkan-tools

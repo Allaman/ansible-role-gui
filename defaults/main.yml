@@ -18,6 +18,8 @@ packages:
   - khal
   - khard
   - libreoffice
+  - manjaro-printer
+  - system-config-printer
   - msmtp
   - neomutt
   - notmuch

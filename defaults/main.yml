@@ -6,6 +6,7 @@ packages:
   - clipmenu
   - alacritty
   - syncthing
+  - exiv2
   - firefox
   - keepassxc
   - pinta

@@ -1,25 +1,22 @@
-ansible-role-gui
-=========
+**DEPRECATED** in favor of [ansible-role-packages](https://github.com/Allaman/ansible-role-packages)
+
+# ansible-role-gui
 
 Configure specific settings and applications that usually requires a running display server.
 
-Requirements
-------------
+## Requirements
 
 - sudo permissions
 
-Role Variables
---------------
+## Role Variables
 
 No variables
 
-Dependencies
-------------
+## Dependencies
 
 - ansible-role-basic
 
-Example Playbook
-----------------
+## Example Playbook
 
 ```
 ---
@@ -30,7 +27,6 @@ Example Playbook
     - ansible-role-gui
 ```
 
-License
--------
+## License
 
 MIT
